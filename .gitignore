@@ -1,0 +1,48 @@
+.vscode
+.cache
+.dontnet
+.local
+.mozilla
+.pki
+ssh
+.ssh
+Backups
+blob_storage
+Cache
+CachedData
+CachedExtensionVSIXs
+CachedProfilesData
+Code Cache
+Crashpad
+databases
+DawnCache
+Dictionaries
+font-patcher
+GPUCache
+Local Storage
+logs
+Service Worker
+Session Storage
+User
+WebStorage
+.bash_logout
+.bashrc
+.gitconfig
+.lesshst
+.profile
+.python_history
+.viminfo
+.Xauthority
+a.out
+code.lock
+Cookies
+Cookies-journal
+languagepacks.json
+machineid
+Network Persistent State
+Preferences
+TransportSecurity
+.fehbg
+Downloads
+.dotnet
+.bash_history
