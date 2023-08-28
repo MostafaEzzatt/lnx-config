@@ -1,6 +1,5 @@
-n('~/.vim/plugged')
+call plug#begin('~/.vim/plugged')
 
-"Fugitive Vim Github Wrapper
 Plug 'chrisbra/Colorizer'
 
 call plug#end()
