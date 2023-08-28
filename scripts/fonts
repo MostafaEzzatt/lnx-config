@@ -1,0 +1,18 @@
+total 796
+drwxr-xr-x 8 root root   4096 Aug 25 07:57 .
+drwxr-xr-x 3 mo   mo     4096 Aug 25 15:03 ..
+drwxr-xr-x 2 root root   4096 Aug 25 07:57 codicons
+-rw-r--r-- 1 root root 125484 Aug 25 07:57 devicons.ttf
+-rw-r--r-- 1 root root  15109 Aug 25 07:57 extraglyphs.sfd
+drwxr-xr-x 2 root root   4096 Aug 25 07:57 font-awesome
+-rw-r--r-- 1 root root  49316 Aug 25 07:57 font-awesome-extension.ttf
+-rw-r--r-- 1 root root  28864 Aug 25 07:57 font-logos.ttf
+drwxr-xr-x 2 root root   4096 Aug 25 07:57 materialdesign
+-rw-r--r-- 1 root root 302940 Aug 25 07:57 materialdesignicons-webfont.ttf
+drwxr-xr-x 2 root root   4096 Aug 25 07:57 octicons
+-rw-r--r-- 1 root root 151804 Aug 25 07:57 original-source.otf
+-rw-r--r-- 1 root root   4028 Aug 25 07:57 Pomicons.otf
+-rw-r--r-- 1 root root  84952 Aug 25 07:57 PowerlineExtraSymbols.otf
+drwxr-xr-x 2 root root   4096 Aug 25 07:57 powerline-symbols
+-rw-r--r-- 1 root root   3168 Aug 25 07:57 Unicode_IEC_symbol_font.otf
+drwxr-xr-x 2 root root   4096 Aug 25 07:57 weather-icons
