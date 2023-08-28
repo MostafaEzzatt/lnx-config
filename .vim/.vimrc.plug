@@ -1,0 +1,6 @@
+n('~/.vim/plugged')
+
+"Fugitive Vim Github Wrapper
+Plug 'chrisbra/Colorizer'
+
+call plug#end()
