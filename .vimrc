@@ -18,3 +18,8 @@ set encoding=utf-8
 
 " Status bar
 set laststatus=2
+
+" Call the .vimrc.plug file
+if filereadable(expand("~/.vimrc.plug"))
+	source ~/.vimrc.plug
+endif
